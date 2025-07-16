@@ -1,6 +1,5 @@
 {
-    "version": "1.1.0",
+    "version": "1.0.0",
     "download_url": "https://example.com/updates/GameFixApplier_v1.1.0.zip",
     "changelog": "- Added new game fixes\n- Improved stability\n- Fixed crash issues",
-    "release_url": "https://github.com/yourusername/yourrepo/releases/tag/v1.1.0"
 }
